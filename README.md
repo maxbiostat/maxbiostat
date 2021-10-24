@@ -16,5 +16,5 @@ See my [CV](https://github.com/maxbiostat/CV/blob/master/cv_LMFCarvalho.pdf) for
 - ⚡ Fun fact: Other than babbling about science, I like football ⚽ (watching and playing), opera 🎼 (watching and annoying others) and judo 🥋 (watching and practising), in this particular order. Oh, and I’m also a dad and a husband 👶 👩‍❤️‍👨.
 
 ### News
-- [StanConnect 2021 :Biomedical statistics](https://mc-stan.org/events/stanconnect_Biomedical/) just happened. Check out the [repo](https://github.com/maxbiostat/StanConnect2021_Biostatistics) with the talks/notebooks and other materials;
+- [StanConnect 2021: Biomedical statistics](https://mc-stan.org/events/stanconnect_Biomedical/) just happened. Check out the [repo](https://github.com/maxbiostat/StanConnect2021_Biostatistics) with the talks/notebooks and other materials;
 - My [paper](https://onlinelibrary.wiley.com/doi/10.1002/sim.9124) with [Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/) on the normalised power prior is out on _Statistics in Medicine_.
