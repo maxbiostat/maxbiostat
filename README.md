@@ -7,7 +7,7 @@ I hold a BSc in Microbiology and Immunology from the Federal University of Rio d
 
 Biological processes (such as mutation, selection, development, infection, etc 🧬 🐛 🌱 🦠) are the product of complex interactions between hundreds to hundreds of thousands of dynamic entities. I use Mathematics and Statistics 📊📐 to try and make sense of the data people collect on these processes, hoping to help paint a more complete picture of Nature. 
 
-I teach courses in [Statistical Inference](https://github.com/maxbiostat/Statistical_Inference_BSc), [Computational Statistics](https://github.com/maxbiostat/Computational_Statistics) and [Bayesian Statistics](https://github.com/maxbiostat/BayesianStatisticsCourse). 
+I teach courses on [Statistical Inference](https://github.com/maxbiostat/Statistical_Inference_BSc), [Computational Statistics](https://github.com/maxbiostat/Computational_Statistics) and [Bayesian Statistics](https://github.com/maxbiostat/BayesianStatisticsCourse). 
 See my [CV](https://github.com/maxbiostat/CV/blob/master/cv_LMFCarvalho.pdf) for more information on [papers](https://github.com/maxbiostat/papers) and other academic publications ([Google Scholar Profile](https://scholar.google.com/citations?user=y2mxpbcAAAAJ&hl=en&authuser=1)). A collection of some [presentations](https://github.com/maxbiostat/presentations) I have given over the years is also available.  
 
 
