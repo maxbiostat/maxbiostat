@@ -2,7 +2,7 @@
 
 Hi there,
 
-My name is Luiz and I am a Lecturer (_Professor Adjunto_) at the [School of Applied Mathematics](https://emap.fgv.br/en) (EMAp), Getúlio Vargas Foundation (FGV).
+My name is Luiz and I am a Lecturer (_Professor Adjunto_) at the [School of Applied Mathematics](https://emap.fgv.br/en) (EMAp), Getulio Vargas Foundation (FGV).
 I hold a BSc in Microbiology and Immunology from the Federal University of Rio de Janeiro (Brazil) and a [PhD](https://era.ed.ac.uk/handle/1842/35510) in Evolutionary Biology from the University of Edinburgh (United Kingdom). 
 
 Biological processes (such as mutation, selection, development, infection, etc 🧬 🐛 🌱 🦠) are the product of complex interactions between hundreds to hundreds of thousands of dynamic entities. I use Mathematics and Statistics 📊📐 to try and make sense of the data people collect on these processes, hoping to help paint a more complete picture of Nature. 
