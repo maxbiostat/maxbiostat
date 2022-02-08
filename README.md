@@ -17,7 +17,7 @@ See my [CV](https://github.com/maxbiostat/CV/blob/master/cv_LMFCarvalho.pdf) for
 
 ### Supervision
 
-If you are student and would like to work with me, I suggest you browse my [Student Projects](https://github.com/maxbiostat/Student_projects) repo and see if anything tickles your curiosity.
+If you are a student and would like to work with me, I suggest you browse my [Student Projects](https://github.com/maxbiostat/Student_projects) repo and see if anything tickles your curiosity.
 
 ### News
 - [StanConnect 2021: Biomedical statistics](https://mc-stan.org/events/stanconnect_Biomedical/) just happened. Check out the [repo](https://github.com/maxbiostat/StanConnect2021_Biostatistics) with the talks/notebooks and other materials;
