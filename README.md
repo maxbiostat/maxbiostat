@@ -22,3 +22,4 @@ If you are a student and would like to work with me, I suggest you browse my [St
 ### News
 - [StanConnect 2021: Biomedical statistics](https://mc-stan.org/events/stanconnect_Biomedical/) just happened. Check out the [repo](https://github.com/maxbiostat/StanConnect2021_Biostatistics) with the talks/notebooks and other materials;
 - My [paper](https://onlinelibrary.wiley.com/doi/10.1002/sim.9124) with [Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/) on the normalised power prior is out in _Statistics in Medicine_.
+- [Guido Moreira](https://github.com/GuidoAMoreira) and I have just ArXived a paper on [adaptive truncation of infinite series](https://arxiv.org/abs/2202.06121) with applications to Statistics. It comes with a powerful R package, [**sumR**](https://github.com/GuidoAMoreira/sumR). Check it out!
