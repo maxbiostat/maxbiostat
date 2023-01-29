@@ -5,6 +5,7 @@ Hi there,
 I am a Lecturer (_Professor Adjunto_) at the [School of Applied Mathematics](https://emap.fgv.br/en) (EMAp), Getulio Vargas Foundation (FGV).
 I hold a BSc in Microbiology and Immunology from the Federal University of Rio de Janeiro (Brazil) and a [PhD](https://era.ed.ac.uk/handle/1842/35510) in Evolutionary Biology from the University of Edinburgh (United Kingdom). 
 
+### [Chi son e che faccio](http://www.aria-database.com/search.php?individualAria=36)
 Biological processes (such as mutation, selection, development, infection, etc 🧬 🐛 🌱 🦠) are the product of complex interactions between hundreds to hundreds of thousands of dynamic entities. I use Mathematics and Statistics 📊📐 to try and make sense of the data people collect on these processes, hoping to help paint a more complete picture of Nature. 
 
 I teach courses on Statistical Inference ([undergraduate](https://github.com/maxbiostat/Statistical_Inference_BSc), [graduate](https://github.com/maxbiostat/Statistical_Inference_MSc)), [Computational Statistics](https://github.com/maxbiostat/Computational_Statistics) and [Bayesian Statistics](https://github.com/maxbiostat/BayesianStatisticsCourse). 
@@ -13,7 +14,7 @@ See my [CV](https://github.com/maxbiostat/CV/blob/master/cv_LMFCarvalho.pdf) for
 
 - 📫 Preferred mode of communication is via [email](mailto:lmax.fgv@gmail.com).
 
-- ⚡ Fun facts: Other than babbling about science, I like football ⚽ (watching and playing), opera 🎼 (watching and annoying others) and grappling 🥋 (watching and practising), in this particular order. Oh, and I’m also a dad and a husband 👶 👩‍❤️‍👨.
+- ⚡ Fun facts: Other than babbling about science, I like football ⚽ (watching and playing), opera 🎼 (watching and annoying others) and grappling 🥋 (watching and [practising](https://www.instagram.com/equipe_dvjj/?hl=en)), in this particular order. Oh, and I’m also a dad and a husband 👶 👩‍❤️‍👨.
 
 ### Supervision
 
