@@ -13,7 +13,7 @@ See my [CV](https://github.com/maxbiostat/CV/blob/master/cv_LMFCarvalho.pdf) for
 
 - 📫 Preferred mode of communication is via [email](mailto:lmax.fgv@gmail.com).
 
-- ⚡ Fun facts: Other than babbling about science, I like football ⚽ (watching and playing), opera 🎼 (watching and annoying others) and judo 🥋 (watching and practising), in this particular order. Oh, and I’m also a dad and a husband 👶 👩‍❤️‍👨.
+- ⚡ Fun facts: Other than babbling about science, I like football ⚽ (watching and playing), opera 🎼 (watching and annoying others) and grappling 🥋 (watching and practising), in this particular order. Oh, and I’m also a dad and a husband 👶 👩‍❤️‍👨.
 
 ### Supervision
 
