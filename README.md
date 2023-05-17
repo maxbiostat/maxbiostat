@@ -27,5 +27,6 @@ If you are a student and would like to work with me, I suggest you browse my [St
 - In this very rough [preprint](https://arxiv.org/abs/2210.03216), [Leo Santos](https://scholar.google.com/citations?user=J2_iEs8AAAAJ&hl=en) and colleagues and I look at an exhaustive method for finding all paths between two nodes in a graph. [[code]](https://github.com/gioguarnieri/all_paths/).
 - In [this preprint](https://arxiv.org/abs/2302.14230), Yueqi Shen, Matt Psioda, Joe Ibrahim and I discuss approaches for setting the (hyper)prior on the discounting factor when performing a normalised power prior analysis. 
 - [Lucas Moschen](https://lucasmoschen.github.io/) and I just arxived a [preprint](https://arxiv.org/abs/2303.01271) on a complete statistical treatment of (a particular construction of) the bivariate beta distribution. [[code]](https://github.com/lucasmoschen/bivariate-beta). 
+- In ["Locking and Quacking: Stacking Bayesian model predictions by log-pooling and superposition"](https://arxiv.org/abs/2305.07334) we look at how to use log-linear mixtures to combine predictive densities while bypassing the normalising constant via optimising the Hyvarinen score. 
 
 [^1]: Rodolfo introduces himself to Mimi in the first act of Puccini's La Boheme, http://www.aria-database.com/search.php?individualAria=36
