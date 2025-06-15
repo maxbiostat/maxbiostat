@@ -32,5 +32,6 @@ If you are a student and would like to work with me, I suggest you browse my [St
 - Rodrigo Alves, Yuri Saporito and I have ArXived a [preprint](https://arxiv.org/abs/2410.17919) on the lumpability of tree-valued Markov processes. This took two years of hard work and I'm glad for it to see the light of day!
 - My colleagues from the [Mosqlimate](https://mosqlimate.org/) project (funded by [@wellcometrust](https://wellcome.org/)) and I have recently ArXived two manuscripts: one on the Mosqlimate [data platform](https://arxiv.org/abs/2410.18945) and another on the [long-term modelling of arboviroses](https://www.arxiv.org/abs/2411.13680).
 - Our [paper](https://doi.org/10.1098/rsos.241261) on the Episcanner framework is now out at the _Royal Society Open Science_. Congratulations are in order for Eduardo and Flávio, who led this amazing work!
+- Jiansi Gao, Erick Matsen and many of the usual suspects and I have just [BioarXived](https://doi.org/10.1101/2025.06.10.657742) a **massive** undertaking towards understanding what makes phylodynamic inference so challenging. Special congratulations are in order to Jay for leading this amazing work!
   
 [^1]: Rodolfo introduces himself to Mimi in the first act of Puccini's La Boheme, https://en.wikipedia.org/wiki/Che_gelida_manina
