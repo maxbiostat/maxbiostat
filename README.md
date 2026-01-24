@@ -24,7 +24,7 @@ If you are a student and would like to work with me, I suggest you browse my [St
 
 ### News
 - Our [paper](https://doi.org/10.1098/rsos.241261) on the Episcanner framework is now out at the _Royal Society Open Science_. Congratulations are in order for Eduardo and Flávio, who led this amazing work!
-- Our paper with Jiansi Gao, Erick Matsen and many of the usual suspects  has been accepted at _PNAS_ . It was a **massive** undertaking towards understanding what makes phylodynamic inference so challenging. Special congratulations are in order to Jay for leading this amazing work! [[PNAS]](https://doi.org/10.1073/pnas.2510938123) [[BioarXiv]](https://doi.org/10.1101/2025.06.10.657742)
+- Our paper with Jiansi Gao, Erick Matsen and many of the usual suspects  has been accepted at _PNAS_, which moves towards understanding what makes phylodynamic inference so challenging. Special congratulations are in order to Jay for leading this massive undertaking! [[PNAS]](https://doi.org/10.1073/pnas.2510938123) [[BioarXiv]](https://doi.org/10.1101/2025.06.10.657742).
 
 ### Older news
 - In ["Locking and Quacking: Stacking Bayesian model predictions by log-pooling and superposition"](https://arxiv.org/abs/2305.07334) we look at how to use log-linear mixtures to combine predictive densities while bypassing the normalising constant via optimising the Hyvarinen score.
