@@ -26,7 +26,8 @@ If you are a student and would like to work with me, I suggest you browse my [St
 - Our [paper](https://doi.org/10.1098/rsos.241261) on the Episcanner framework is now out at the _Royal Society Open Science_. Congratulations are in order for Eduardo and Flávio, who led this amazing work!
 - Our paper with Jiansi Gao, Erick Matsen and many of the usual suspects  has been accepted at _PNAS_, which moves towards understanding what makes phylodynamic inference so challenging. Special congratulations are in order to Jay for leading this massive undertaking! [[PNAS]](https://doi.org/10.1073/pnas.2510938123) [[BioarXiv]](https://doi.org/10.1101/2025.06.10.657742).
 - Our [Mosqlimate](https://mosqlimate.org/) paper on forecast ensembles for dengue is now out at [PNAS](https://www.pnas.org/doi/10.1073/pnas.2508989123). This was a real _tour de force_ and I think special congratulations are in order for [Eduardo Araújo](https://github.com/eduardocorrearaujo), who lead the effort!  [[MedArXiV](https://www.medrxiv.org/content/10.1101/2025.05.12.25327419v1)]. Funded by [@wellcometrust](https://wellcome.org/).
-- [Isaque](https://github.com/isaquepim)'s review paper on spatial confounding has now been posted to [ArxiV](https://arxiv.org/abs/2602.17792). Joint work With Marcos O. Prates. 
+- [Isaque](https://github.com/isaquepim)'s review paper on spatial confounding has now been posted to [ArXiV](https://arxiv.org/abs/2602.17792). Joint work With Marcos O. Prates.
+- Our [paper](https://arxiv.org/abs/2506.20060) with Ethan Alt (GSK), Xinxin Chen and Joe Ibrahim (UNC)  on the wonderful **hdbayes** (https://cran.r-project.org/web/packages/hdbayes/index.html) package has now been accepted at the [R journal](https://journal.r-project.org/). Check out the package on [Github](https://github.com/ethan-alt/hdbayes) also!
 
 
 ### Older news
