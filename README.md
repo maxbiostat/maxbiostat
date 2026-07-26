@@ -2,9 +2,9 @@
 
 Hi there,
 
-I am a Lecturer (_Professor Adjunto_) at the [School of Applied Mathematics](https://emap.fgv.br/en) (EMAp), Getulio Vargas Foundation (FGV). 
-I also hold an [Adjunct Assistant Professor](https://sph.unc.edu/adv_profile/luiz-carvalho/) position at the department of Biostatistics of the Gillings School of Global Public Health, University of North Carolina Chapel Hill.
+I am a Lecturer (_Professor Adjunto_) at the [School of Applied Mathematics](https://emap.fgv.br/en) (EMAp), Getulio Vargas Foundation (FGV). I also hold an [Adjunct Assistant Professor](https://sph.unc.edu/adv_profile/luiz-carvalho/) position at the department of Biostatistics of the Gillings School of Global Public Health, University of North Carolina Chapel Hill. 
 I hold a BSc in Microbiology and Immunology from the Federal University of Rio de Janeiro (Brazil) and a [PhD](https://era.ed.ac.uk/handle/1842/35510) in Evolutionary Biology from the University of Edinburgh (United Kingdom). 
+I am a recepient of a JCNE (FAPERJ) and a PQ-C (CNPq), in case you care about that. 
 
 ### Chi son e che faccio[^1]
 **Research**: Biological processes (such as mutation, selection, development, infection, etc 🧬 🐛 🌱 🦠) are the product of complex interactions between hundreds to hundreds of thousands of dynamic entities. I use Mathematics and Statistics 📊📐 to try and make sense of the data people collect on these processes, hoping to help paint a more complete picture of Nature. 
