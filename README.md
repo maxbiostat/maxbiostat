@@ -29,6 +29,8 @@ If you are a student and would like to work with me, I suggest you browse my [St
 - Our [paper](https://arxiv.org/abs/2506.20060) with Ethan Alt (GSK), Xinxin Chen and Joe Ibrahim (UNC)  on the wonderful [**hdbayes**](https://cran.r-project.org/web/packages/hdbayes/index.html) package has now been accepted at the [R journal](https://journal.r-project.org/). Check out the package on [Github](https://github.com/ethan-alt/hdbayes) also!
 - [Felipe](https://github.com/felipeschardong)'s MSc dissertation [paper](https://doi.org/10.1016/j.mbs.2026.109741) on pest control _via_ transgenic crops is now out at _Mathematical Biosciences_. Joint work with his UFSM supervisor Professor Diomar Mistro and UFPB Professor Bruno Malaquias. [[Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5851489).
 - [Felipe](https://github.com/felipeschardong)'s first thesis [paper](https://doi.org/10.1186/s12889-026-27533-8) on mathematical modelling of antimicrobial resistance has been published at _BMC Public Health_. Joint work with Claudio Struchiner. [[ArXiv]](https://arxiv.org/abs/2601.02308).
+- The [paper](https://link.springer.com/article/10.1007/s11749-026-01033-8) on classical and Bayesian approaches to inference and diagnostics in a class of bivariate Beta distributions is now out in _Test_. Joint work with [Lucas Moschen](https://lucasmoschen.github.io/). [[ArXiv](https://arxiv.org/abs/2303.01271)].
+  
 
 
 ### Older news
