@@ -23,13 +23,12 @@ See my [CV](https://github.com/maxbiostat/CV/blob/master/cv_LMFCarvalho.pdf) for
 If you are a student and would like to work with me, I suggest you browse my [Student Projects](https://github.com/maxbiostat/Student_projects) repo and see if anything tickles your curiosity.
 
 ### News
-- Our paper with Jiansi Gao, Erick Matsen and many of the usual suspects  has been accepted at _PNAS_, which moves towards understanding what makes phylodynamic inference so challenging. Special congratulations are in order to Jay for leading this massive undertaking! [[PNAS]](https://doi.org/10.1073/pnas.2510938123) [[BioarXiv]](https://doi.org/10.1101/2025.06.10.657742).
-- Our [Mosqlimate](https://mosqlimate.org/) paper on forecast ensembles for dengue is now out at [PNAS](https://www.pnas.org/doi/10.1073/pnas.2508989123). This was a real _tour de force_ and I think special congratulations are in order for [Eduardo Araújo](https://github.com/eduardocorrearaujo), who lead the effort!  [[MedArXiV](https://www.medrxiv.org/content/10.1101/2025.05.12.25327419v1)]. Funded by [@wellcometrust](https://wellcome.org/).
-- [Isaque](https://github.com/isaquepim)'s review paper on spatial confounding has now been posted to [ArXiV](https://arxiv.org/abs/2602.17792). Joint work With Marcos O. Prates.
+
 - Our [paper](https://arxiv.org/abs/2506.20060) with Ethan Alt (GSK), Xinxin Chen and Joe Ibrahim (UNC)  on the wonderful [**hdbayes**](https://cran.r-project.org/web/packages/hdbayes/index.html) package has now been accepted at the [R journal](https://journal.r-project.org/). Check out the package on [Github](https://github.com/ethan-alt/hdbayes) also!
 - [Felipe](https://github.com/felipeschardong)'s MSc dissertation [paper](https://doi.org/10.1016/j.mbs.2026.109741) on pest control _via_ transgenic crops is now out at _Mathematical Biosciences_. Joint work with his UFSM supervisor Professor Diomar Mistro and UFPB Professor Bruno Malaquias. [[Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5851489).
 - [Felipe](https://github.com/felipeschardong)'s first thesis [paper](https://doi.org/10.1186/s12889-026-27533-8) on mathematical modelling of antimicrobial resistance has been published at _BMC Public Health_. Joint work with Claudio Struchiner. [[ArXiv]](https://arxiv.org/abs/2601.02308).
 - The [paper](https://link.springer.com/article/10.1007/s11749-026-01033-8) on classical and Bayesian approaches to inference and diagnostics in a class of bivariate Beta distributions is now out in _Test_. Joint work with [Lucas Moschen](https://lucasmoschen.github.io/). [[ArXiv](https://arxiv.org/abs/2303.01271)].
+- The manuscript describing SubTreeLeap, an adaptive tree proposal mechanism for Markov chain Monte Carlo on the space of time-calibrated phylogenies has been posted to [ArXiv](https://arxiv.org/abs/2609.02445). Amazing work by Marius Brusselmans, Guy Baele and others!
   
 
 
@@ -43,6 +42,9 @@ If you are a student and would like to work with me, I suggest you browse my [St
 - Rodrigo Alves, Yuri Saporito and I have ArXived a [preprint](https://arxiv.org/abs/2410.17919) on the lumpability of tree-valued Markov processes. This took two years of hard work and I'm glad for it to see the light of day!
 - My colleagues from the [Mosqlimate](https://mosqlimate.org/) project (funded by [@wellcometrust](https://wellcome.org/)) and I have recently ArXived two manuscripts: one on the Mosqlimate [data platform](https://arxiv.org/abs/2410.18945) and another on the [long-term modelling of arboviroses](https://www.arxiv.org/abs/2411.13680).
 - Our [paper](https://doi.org/10.1098/rsos.241261) on the Episcanner framework is now out at the _Royal Society Open Science_. Congratulations are in order for Eduardo and Flávio, who led this amazing work!
+- Our paper with Jiansi Gao, Erick Matsen and many of the usual suspects  has been accepted at _PNAS_, which moves towards understanding what makes phylodynamic inference so challenging. Special congratulations are in order to Jay for leading this massive undertaking! [[PNAS]](https://doi.org/10.1073/pnas.2510938123) [[BioarXiv]](https://doi.org/10.1101/2025.06.10.657742).
+- Our [Mosqlimate](https://mosqlimate.org/) paper on forecast ensembles for dengue is now out at [PNAS](https://www.pnas.org/doi/10.1073/pnas.2508989123). This was a real _tour de force_ and I think special congratulations are in order for [Eduardo Araújo](https://github.com/eduardocorrearaujo), who lead the effort!  [[MedArXiV](https://www.medrxiv.org/content/10.1101/2025.05.12.25327419v1)]. Funded by [@wellcometrust](https://wellcome.org/).
+- [Isaque](https://github.com/isaquepim)'s review paper on spatial confounding has now been posted to [ArXiV](https://arxiv.org/abs/2602.17792). Joint work With Marcos O. Prates.
 
   
 [^1]: Rodolfo introduces himself to Mimi in the first act of Puccini's La Boheme, https://en.wikipedia.org/wiki/Che_gelida_manina
